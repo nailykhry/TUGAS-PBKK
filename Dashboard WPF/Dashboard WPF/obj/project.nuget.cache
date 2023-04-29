@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6u4fAE9Q+ZVSkMIdf2dQMIRMsjLgsa4VEuOi51tVLZiDRGHjX/0a5efNYMDcD9Mj0TrA6/38dtXnsTd7PMhSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI USER\\OneDrive - Institut Teknologi Sepuluh Nopember\\Dokumen\\Semester 6\\TUGAS-PBKK\\Dashboard WPF\\Dashboard WPF\\Dashboard WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI USER\\.nuget\\packages\\controlzex\\4.3.0\\controlzex.4.3.0.nupkg.sha512",
+    "C:\\Users\\MSI USER\\.nuget\\packages\\mahapps.metro\\2.0.0\\mahapps.metro.2.0.0.nupkg.sha512",
+    "C:\\Users\\MSI USER\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\MSI USER\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\MSI USER\\.nuget\\packages\\materialdesignthemes.mahapps\\0.2.8\\materialdesignthemes.mahapps.0.2.8.nupkg.sha512",
+    "C:\\Users\\MSI USER\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\MSI USER\\.nuget\\packages\\modernuicharts.wpf.beta\\0.9.1\\modernuicharts.wpf.beta.0.9.1.nupkg.sha512",
+    "C:\\Users\\MSI USER\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ModernUICharts.WPF.Beta 0.9.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ModernUICharts.WPF.Beta",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
